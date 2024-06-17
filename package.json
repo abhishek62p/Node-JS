@@ -1,5 +1,5 @@
 {
-  "name": "backend-express.js",
+  "name": "backend-express",
   "version": "1.0.0",
   "description": "a basic app to deploy",
   "main": "index.js",
@@ -14,5 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "devDependencies": {}
 }
